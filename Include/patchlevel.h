@@ -19,7 +19,7 @@
 #define PY_MAJOR_VERSION        3
 #define PY_MINOR_VERSION        8
 #define PY_MICRO_VERSION        256
-#define PY_RELEASE_LEVEL        PY_RELEASE_LEVEL_FINAL
+#define PY_RELEASE_LEVEL        PY_RELEASE_LEVEL_GAMMA
 #define PY_RELEASE_SERIAL       0
 
 /* Version as a string */
